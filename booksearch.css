@@ -1,0 +1,56 @@
+* {box-sizing: border-box; }
+
+body {
+	margin: 0;
+	background-color: #f7ddc4;
+}
+
+header {
+	background-color: #f2dd83;
+	text-align: center;
+	margin: 0;
+	padding: 0.5em;
+}
+
+h2 {
+	text-align: left;
+	padding-left: 4em;
+}
+
+main {
+	text-align: center;
+}
+
+
+form {
+	justify-content: center;
+	width: 550px;
+	height: 300px;
+	background-color: #2d6ab4;
+	margin-left: 4em;
+	margin-bottom: 2em;
+}
+
+#bookLabel {
+	color: #ffffff;
+	text-align: left;
+	padding-left: 2em;
+	padding-top: 3.5em;
+}
+
+#suggestions {
+	color: #ffffff;
+	text-align: left;
+	padding-left: 3em;
+}
+
+
+
+footer {
+	background-color: #f3f0ad;
+	text-align: center;
+	font-style: italic;
+	margin: 0;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
